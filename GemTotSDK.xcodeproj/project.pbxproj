@@ -256,7 +256,7 @@
 						DevelopmentTeam = PCW85QWZDY;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
-								enabled = 0;
+								enabled = 1;
 							};
 							com.apple.Passbook = {
 								enabled = 0;
